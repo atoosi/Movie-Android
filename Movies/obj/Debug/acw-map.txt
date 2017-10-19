@@ -1,0 +1,8 @@
+Movies.ListViewClass, Movies;md52e02d0705c895b7976f2f90cd02b5efd.ListViewClass
+Movies.ListViewClass, Movies, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52e02d0705c895b7976f2f90cd02b5efd.ListViewClass
+Movies.ListViewClass;md52e02d0705c895b7976f2f90cd02b5efd.ListViewClass
+movies.ListViewClass;md52e02d0705c895b7976f2f90cd02b5efd.ListViewClass
+Movies.MainActivity, Movies;md52e02d0705c895b7976f2f90cd02b5efd.MainActivity
+Movies.MainActivity, Movies, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52e02d0705c895b7976f2f90cd02b5efd.MainActivity
+Movies.MainActivity;md52e02d0705c895b7976f2f90cd02b5efd.MainActivity
+movies.MainActivity;md52e02d0705c895b7976f2f90cd02b5efd.MainActivity
